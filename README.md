@@ -1,5 +1,18 @@
 # LLM-s-on-Cloud-Tools
 
+
+# Baseline Code for LSTM and LLM Performance on Cloud Platforms
+
+The baseline code for our project includes implementations of LSTM and LLM models deployed on several cloud platforms. 
+
+- LSTM on AWS: [Link to LSTM AWS Example](#)
+- LSTM on Google Cloud: [Link to LSTM GCP Example](#)
+- LSTM on Azure: [Link to LSTM Azure Example](#)
+- LLM (such as GPT-2) on AWS: [Link to LLM AWS Example](#)
+- LLM (such as GPT-2) on Google Cloud: [Link to LLM GCP Example](#)
+- LLM (such as GPT-2) on Azure: [Link to LLM Azure Example](#)
+
+
 ## Abstract: 
 
 The main object of this project is a brief survey about cloud computing tools and programming languages. Cloud computing has many requirements to use the right tool with a supporting programming language effectively. Each tool has specific goals and features. For example, the Google app engine is used for infrastructure maintenance, and its primary concern is pay-as-you-go subscription, and it supports Python, PHP, .NET, and Java. In the same way, Cloud Hub, Puppet, and Kubernetes have specific features and supporting Languages. Cloud Computing tools mainly depend on cloud Services. 
