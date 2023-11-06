@@ -1,7 +1,7 @@
 # LLM's performance varies across Cloud platforms
 
 
-## Baseline Code for LSTM and LLM Performance on Cloud Platforms
+**Baseline Code for LSTM and LLM Performance on Cloud Platforms**
 
 The baseline code for our project includes implementations of LSTM and LLM models deployed on several cloud platforms. 
 
